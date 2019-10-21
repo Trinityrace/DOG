@@ -16,7 +16,7 @@ ul{
   float:center;
   text-align:center;
 }
-body{
+body{border: 2px solid red;
   text-align:center;
   background-color:blue;}
 img{
