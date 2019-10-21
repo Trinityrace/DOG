@@ -12,8 +12,12 @@ p{
 ul{
   line-height: 40px;
 }
-.A{borde:
-  ;}
-img{align-content: space-around;
+.A{border:;
+  text-align:center;
+}
+body{
+  background-color:blue;}
+img{
+  align-content: space-around;
 
 }
