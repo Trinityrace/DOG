@@ -1,55 +1,11 @@
+body{
+  background-color: lightblue;
+}
 h1{
-  border:2px solid red;
-  color: green;
-  text-align: center;
-}
-h2{color:yellow;
-   border:2px solid red;
-   font-style: italic;
-   text-align: center;
-}
-.A{
-  float:left;
-  border: 2px solid red;
-  padding: 6px;
-  margin: 20px;
-}
-#home img{
-  border-radius: 100%;
-  /* margin-right: 50%; */
-  /* margin-left:50%; */
-  margin:auto;
-  filter: grayscale(100%);
-  transition:0.9s all;
-}
-.{
-  background-image: url("https://scontent-sea1-1.cdninstagram.com/vp/d367a2520072efad0014453c360eeb81/5E3E28DE/t51.2885-15/e35/14134906_320192781662892_1345037240_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_cat=100&ig_cache_key=MTMyOTY3NDg4NjU0OTc3NTg1OQ%3D%3D.2");
-background-attachment: fixed;
-background-position: center center;
-background-repeat: no-repeat;
-background-size: cover;
-}
-.B{
-  float:right;
-  border: 2px solid red;
-  padding: 6px;
-  margin: 20px;
-}
-body{border: 2px solid red;
-  margin:;
-  padding:;
-  border:;
+  color:white;
   text-align:center;
-  background-color:goldenrod;
 }
-#grad{
-  height:200px;
-  background-color: hotpink;
-  background-image:linear-gradient;
-}
-img{
-  align-content: space-around;
-  padding:;
-  margin:;
-  border:;
+p{
+  font-family:verdana;
+  font-size:20px;
 }
